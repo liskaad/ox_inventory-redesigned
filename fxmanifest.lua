@@ -9,7 +9,7 @@
 	═══════════════════════════════════════════════════════════════════════════════
 
 	FiveM Manifest Configuration
-	Redesigned & Visually Enhanced by: Dejvøxツ
+	Redesigned & Visually Enhanced by: DJV SCRIPTS|Dejvøxツ
 
 	Modern, Clean Architecture | Professional Code Structure
 	═══════════════════════════════════════════════════════════════════════════════
