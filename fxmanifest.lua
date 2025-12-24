@@ -28,7 +28,7 @@ name 'ox_inventory'
 author 'Overextended'
 version '2.44.1'
 repository 'https://github.com/overextended/ox_inventory'
-description 'Slot-based inventory with item metadata support | Redesigned by Dejvøxツ'
+description 'Slot-based inventory with item metadata support | Redesigned by DJV SCRIPTS|Dejvøxツ'
 
 -- ═══════════════════════════════════════════════════════════════════════════════
 -- DEPENDENCIES
